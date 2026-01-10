@@ -1,0 +1,6 @@
+# requirements.txt
+
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+
+# Python version: 3.6+
