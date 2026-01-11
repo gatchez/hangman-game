@@ -60,7 +60,7 @@ Follow the on-screen prompts to guess letters and play the game.
 ### Example Gameplay
 ```
 Guess a letter: a
-_ _ _ _ _
+a _ _ _ _
 
 Guess a letter: p
 _ p _ _ _
