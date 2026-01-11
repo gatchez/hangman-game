@@ -63,13 +63,13 @@ Guess a letter: a
 a _ _ _ _
 
 Guess a letter: p
-_ p _ _ _
+a p _ _ _
 
 Guess a letter: l
-_ p p l _
+a p p l _
 
 Guess a letter: e
-_ p p l e
+a p p l e
 ```
 
 ## Game Rules
